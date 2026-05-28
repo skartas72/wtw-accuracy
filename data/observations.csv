@@ -1,0 +1,10 @@
+timestamp_utc,city,mgm_id,source,condition,temperature,cloud,precip_1h,precip_6h,humidity
+2026-05-28T09:40,Istanbul,93401,MGM,PB,22.9,3,0,0,70
+2026-05-28T09:40,Istanbul,93401,OpenMeteo,2,22.4,56,0.0,,63
+2026-05-28T09:40,Izmir,93501,MGM,CB,28.8,5,0,0,34
+2026-05-28T09:40,Izmir,93501,OpenMeteo,2,27.9,64,0.0,,36
+2026-05-28T09:40,Antalya,90701,MGM,PB,24.7,-9999,0,0,70
+2026-05-28T09:40,Trabzon,96101,MGM,CB,22.5,-9999,0,0,67
+2026-05-28T09:40,Trabzon,96101,OpenMeteo,61,21.6,100,0.0,,67
+2026-05-28T09:40,Erzurum,92501,MGM,HSY,14.6,7,0,0,56
+2026-05-28T09:40,Erzurum,92501,OpenMeteo,3,14.7,100,0.0,,61
