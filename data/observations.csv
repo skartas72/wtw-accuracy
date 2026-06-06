@@ -400,3 +400,12 @@ timestamp_utc,city,mgm_id,source,condition,temperature,cloud,precip_1h,precip_6h
 2026-06-05T22:19,Erzurum,92501,MGM,A,10.3,-9999,0,0,75
 2026-06-05T22:19,Erzurum,92501,OpenMeteo,1,8.9,4,0.0,,64
 2026-06-05T22:19,Gaziantep,92701,MGM,HY,19.7,-9999,0,0,63
+2026-06-06T04:02,Istanbul,93401,MGM,AB,18.5,2,0,0,86
+2026-06-06T04:02,Istanbul,93401,OpenMeteo,2,19.0,52,0.0,,87
+2026-06-06T04:02,Izmir,93501,MGM,PB,19.6,3,0,0,87
+2026-06-06T04:02,Izmir,93501,OpenMeteo,0,19.7,0,0.0,,81
+2026-06-06T04:02,Antalya,90701,MGM,A,21,-9999,0,0.6,77
+2026-06-06T04:02,Antalya,90701,OpenMeteo,0,20.3,0,0.0,,77
+2026-06-06T04:02,Erzurum,92501,OpenMeteo,2,10.2,47,0.0,,74
+2026-06-06T04:02,Gaziantep,92701,MGM,PB,20.4,-9999,0,0,66
+2026-06-06T04:02,Gaziantep,92701,OpenMeteo,3,20.0,100,0.0,,62
