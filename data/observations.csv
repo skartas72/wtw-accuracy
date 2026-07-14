@@ -2249,3 +2249,10 @@ timestamp_utc,city,mgm_id,source,condition,temperature,cloud,precip_1h,precip_6h
 2026-07-14T05:36,Antalya,90701,OpenMeteo,0,30.5,3,0.0,,45
 2026-07-14T05:36,Trabzon,96101,MGM,CB,24,-9999,0,0,73
 2026-07-14T05:36,Gaziantep,92701,OpenMeteo,0,28.6,0,0.0,,32
+2026-07-14T08:18,Istanbul,93401,MGM,CB,23.3,5,0,0,69
+2026-07-14T08:18,Istanbul,93401,OpenMeteo,2,23.6,70,0.0,,67
+2026-07-14T08:18,Izmir,93501,MGM,A,30.8,0,0,0,39
+2026-07-14T08:18,Izmir,93501,OpenMeteo,1,29.1,6,0.0,,43
+2026-07-14T08:18,Antalya,90701,MGM,A,31.2,-9999,0,0,68
+2026-07-14T08:18,Antalya,90701,OpenMeteo,0,35.4,0,0.0,,31
+2026-07-14T08:18,Gaziantep,92701,OpenMeteo,0,33.2,0,0.0,,21
