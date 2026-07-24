@@ -2841,3 +2841,10 @@ timestamp_utc,city,mgm_id,source,condition,temperature,cloud,precip_1h,precip_6h
 2026-07-24T08:34,Ankara,90601,OpenMeteo,2,22.7,71,0.0,,41
 2026-07-24T08:34,Erzurum,92501,MGM,AB,23.9,-9999,0,0,43
 2026-07-24T08:34,Gaziantep,92701,MGM,A,34.6,-9999,0,0,19
+2026-07-24T11:05,Istanbul,93401,MGM,CB,27,5,0,0.4,40
+2026-07-24T11:05,Istanbul,93401,OpenMeteo,3,26.2,72,0.0,,48
+2026-07-24T11:05,Izmir,93501,MGM,AB,29.9,2,0,0,41
+2026-07-24T11:05,Izmir,93501,OpenMeteo,2,32.1,72,0.0,,28
+2026-07-24T11:05,Antalya,90701,MGM,AB,30.3,-9999,0,0,74
+2026-07-24T11:05,Antalya,90701,OpenMeteo,2,31.0,65,0.0,,73
+2026-07-24T11:05,Gaziantep,92701,OpenMeteo,1,35.7,23,0.0,,17
