@@ -3683,3 +3683,13 @@ timestamp_utc,city,mgm_id,source,condition,temperature,cloud,precip_1h,precip_6h
 2026-08-07T00:07,Ankara,90601,OpenMeteo,1,22.0,12,0.0,,52
 2026-08-07T00:07,Trabzon,96101,OpenMeteo,3,23.8,97,0.0,,89
 2026-08-07T00:07,Erzurum,92501,OpenMeteo,0,16.8,0,0.0,,56
+2026-08-07T04:58,Istanbul,93401,MGM,AB,25.3,2,0,0,80
+2026-08-07T04:58,Istanbul,93401,OpenMeteo,3,23.7,79,0.0,,87
+2026-08-07T04:58,Izmir,93501,MGM,A,25.8,0,0,0,66
+2026-08-07T04:58,Izmir,93501,OpenMeteo,0,23.9,0,0.0,,70
+2026-08-07T04:58,Ankara,90601,MGM,A,23.8,0,0.05,0.05,58
+2026-08-07T04:58,Ankara,90601,OpenMeteo,1,21.0,6,0.0,,60
+2026-08-07T04:58,Trabzon,96101,MGM,CB,25.9,-9999,0,0,73
+2026-08-07T04:58,Trabzon,96101,OpenMeteo,3,25.0,89,0.0,,80
+2026-08-07T04:58,Erzurum,92501,MGM,A,19.6,-9999,0,0,52
+2026-08-07T04:58,Gaziantep,92701,OpenMeteo,0,28.0,0,0.0,,33
