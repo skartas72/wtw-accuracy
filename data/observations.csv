@@ -7966,3 +7966,4 @@ timestamp_utc,city,mgm_id,source,condition,temperature,cloud,precip_1h,precip_6h
 2026-11-13T23:25,Erzurum,92501,MGM,A,0.4,-9999,0,0,95
 2026-11-13T23:25,Erzurum,92501,OpenMeteo,1,0.1,11,0.0,,86
 2026-11-13T23:25,Gaziantep,92701,OpenMeteo,1,8.6,12,0.0,,84
+2026-11-14T05:50,Istanbul,93401,MGM,CB,18,5,0,0,68
